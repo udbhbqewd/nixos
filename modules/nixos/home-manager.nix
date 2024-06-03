@@ -5,7 +5,7 @@
     backupFileExtension = "bak";
     extraSpecialArgs = { inherit inputs; };
     users = {
-      "daksh" = import ../../hosts/home.nix;
+      "xyz" = import ../../hosts/home.nix;
     };
   };
 }
