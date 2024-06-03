@@ -1,6 +1,6 @@
 {
   networking = {
-    hostName = "dakwa";
+    hostName = "abc";
     networkmanager.enable = true;
   };
 }
