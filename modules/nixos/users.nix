@@ -2,9 +2,9 @@
 
 {
   users.users = {
-    daksh = {
+    xyz = {
       isNormalUser = true;
-      description = "Daksh";
+      description = "XYZ";
       extraGroups = [ "wheel" "networkmanager" ];
       shell = pkgs.zsh;
     };
